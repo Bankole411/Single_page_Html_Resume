@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   } 
+   .navigation{
+                               background-color: black;
+                               padding: 15px;
+   }
+   .navigation-menu{
+       justify-content: center;
+       display: flex;
+       list-style: none;
+    }
+    
+   
+   .link{
+       padding-left: 25px;
+       color:white;
+       text-decoration: none;
+       padding-right: 25px;
+   
+   
+   }
+   .second-link {
+
+    text-decoration: none;
+}
+.second-menu{
+    text-align: center;
+    background-color: #eee;
+    font-size: 17px;
+    padding: 15px;
+    }
+    .banner6{
+        text-align: center;
+        height: 300px;
+        background-position: center;
+        background-size: contain;
+        padding-bottom: 30px;
+}
+.banner-text1{
+        font-size: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+.banner-text2{
+        padding-bottom: 20px;
+        font-size: 30px;
+}
+.banner-text3{
+        font-size: 20px;
+        padding-bottom: 20px;
+        color: gray;
+}
+.link-1{
+    padding-right: 30px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.second-text1{
+    font-size: 40px;
+    color: rgb(88, 6, 6);
+    padding-bottom: 5px;    
+}
+.second-text2{
+    font-size: 20px;
+        padding-bottom: 20px;
+        color: gray;
+
+}
+.second-text3{
+font-size: 20px;
+padding-bottom: 10px;
+color: gray;
+
+}
+.banner7{
+text-align: center;
+background: url(./images/image1.jpg);
+background-size: cover;
+height: 600px;
+padding-top: 50px;
+background-position: center;
+}
+
+.welcome-container {
+    max-width: 60rem;
+    margin: 15rem auto;
+    padding: 7rem 0;
+    border-radius: 1rem;
+    background-color: grey;
+    text-align: center;
+  }
+  
+  .welcome {
+    margin: auto;
+    align-self: center;
+    font-size: 7rem;
+  }
+  .banner2{
+    text-align: center;
+    height: 300px;
+    background-position: center;
+    background-size: contain;
+    padding-bottom: 30px;
+}
