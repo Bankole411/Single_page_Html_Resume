@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Bankole-Oluwatobiloba'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EB977F2C7064C1AB71CA8C403AC2A01 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A55596CF88384933B4BC96013A6FBD10 }}
